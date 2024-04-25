@@ -1,0 +1,14 @@
+The Response is
+Banana - 105 calories
+Beans - 227 calories
+Beef - 230 calories
+Chicken - 172 calories
+Eggs - 78 calories
+Fish - 206 calories
+Milk - 149 calories
+Nuts - 160 calories
+Potato - 110 calories
+Quinoa - 222 calories
+Spinach - 7 calories
+Whole wheat bread - 80 calories
+Total calories: 1720 calories
